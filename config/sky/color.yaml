@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    control-plane: controller-manager
+  name: system
+---
+apiVersion: v1
+kind: Sky
+metadata:
+  name: system
+spec:
+  hue: blue
+

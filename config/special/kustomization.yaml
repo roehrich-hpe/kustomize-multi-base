@@ -1,0 +1,7 @@
+namespace: bird-system
+
+namePrefix: bird-
+
+resources:
+- ../sky
+

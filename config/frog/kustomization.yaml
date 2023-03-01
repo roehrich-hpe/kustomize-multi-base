@@ -1,0 +1,7 @@
+namespace: frog-system
+
+namePrefix: frog-
+
+resources:
+- swamp.yaml
+
